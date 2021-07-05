@@ -1,6 +1,6 @@
 # Quote Generator
 
-### Quote generation and diplay using the _forismatic_ API
+### Quote generation and display using the _forismatic_ API
 
 ### Built using HTML/CSS and JavaScript
 
